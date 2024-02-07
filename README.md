@@ -1,1 +1,1 @@
-# AssignmentsWorkSelenium
+# Assignments on Selenium-Java
